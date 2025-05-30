@@ -1,3 +1,5 @@
 .qodo
 tri_csv
 env
+backend/.env
+backend/media
